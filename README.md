@@ -8,17 +8,21 @@
 
 ## Skills:
 
-<img src="./icons/github.svg" alt="GitHub Logo" width="40" height="40">
-<img src="./icons/python.svg" alt="Python Logo" width="40" height="40">
-<img src="./icons/mql5.png" alt="MQL5 Logo" width="40" height="40">
-<img src="./icons/jupyter.svg" alt="Jupyter Logo" width="40" height="40">
-<img src="./icons/visualstudiocode.svg" alt="Visualstudiocode Logo" width="40" height="40">
-<img src="./icons/pycharm.svg" alt="Pycharm Logo" width="40" height="40">
-<img src="./icons/streamlit.svg" alt="Streamlit Logo" width="40" height="40">
-<img src="./icons/numpy.svg" alt="Numpy Logo" width="40" height="40">
-<img src="./icons/pandas.svg" alt="Pandas Logo" width="40" height="40">
-<img src="./icons/sqlite.svg" alt="Sqlite Logo" width="40" height="40">
-<img src="./icons/postgresql.svg" alt="Postgresql Logo" width="40" height="40">
-<img src="./icons/plotly.svg" alt="Plotly Logo" width="40" height="40">
-<img src="./icons/keras.svg" alt="Keras Logo" width="40" height="40">
-<img src="./icons/tensorflow.svg" alt="Tensorflow Logo" width="40" height="40">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="./icons/github.svg" alt="GitHub Logo" width="40" height="40">
+  <img src="./icons/python.svg" alt="Python Logo" width="40" height="40">
+  <img src="./icons/mql5.png" alt="MQL5 Logo" width="40" height="40">
+  <img src="./icons/jupyter.svg" alt="Jupyter Logo" width="40" height="40">
+  <img src="./icons/visualstudiocode.svg" alt="Visual Studio Code Logo" width="40" height="40">
+  <img src="./icons/pycharm.svg" alt="PyCharm Logo" width="40" height="40">
+  <img src="./icons/streamlit.svg" alt="Streamlit Logo" width="40" height="40">
+  <img src="./icons/numpy.svg" alt="NumPy Logo" width="40" height="40">
+  <img src="./icons/pandas.svg" alt="Pandas Logo" width="40" height="40">
+  <img src="./icons/sqlite.svg" alt="SQLite Logo" width="40" height="40">
+  <img src="./icons/postgresql.svg" alt="PostgreSQL Logo" width="40" height="40">
+  <img src="./icons/plotly.svg" alt="Plotly Logo" width="40" height="40">
+  <img src="./icons/keras.svg" alt="Keras Logo" width="40" height="40">
+  <img src="./icons/tensorflow.svg" alt="TensorFlow Logo" width="40" height="40">
+
+</div>

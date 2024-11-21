@@ -24,5 +24,6 @@
   <img src="./icons/plotly.svg" alt="Plotly Logo" width="40" height="40">
   <img src="./icons/keras.svg" alt="Keras Logo" width="40" height="40">
   <img src="./icons/tensorflow.svg" alt="TensorFlow Logo" width="40" height="40">
+  <img src="./icons/scikitlearn.svg" alt="TensorFlow Logo" width="40" height="40">
 
 </div>

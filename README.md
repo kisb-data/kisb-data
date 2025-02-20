@@ -4,8 +4,6 @@
 
 - :point_right: I’m currently working on my personal projects.
 
-- :blue_book: I’m currently learning Data Science. 
-
 ## Skills:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
